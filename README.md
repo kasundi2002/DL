@@ -1,2 +1,2 @@
 # DL
-this is for the lab 2 submission of deep learning module
+this is the repository created for the lab submissions of deep learning module
