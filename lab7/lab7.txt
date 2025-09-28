@@ -1,0 +1,20 @@
+Reinforcement Learning is a type of machine learning where an agent learns how to behave in an environment by interacting with it. The agent takes actions, receives rewards or penalties, and uses this feedback to improve its future decisions.
+
+Key points:
+The agent: the learner or decision-maker.
+The environment: everything the agent interacts with.
+Actions: choices the agent can make.
+States: situations the agent finds itself in.
+Reward: feedback signal (positive or negative) that tells the agent how good its action was.
+Goal: to learn a policy (strategy) that maximizes the total reward over time.
+
+Model-Based RL
+    The agent either knows or learns the rules of the environment — how actions change states and what rewards follow.   
+    It can use this knowledge to plan ahead, simulating outcomes before acting.
+    Examples: Dynamic Programming, Value Iteration, Policy Iteration.
+
+Model-Free RL
+
+    The agent does not know the environment’s rules.
+    It learns only by trial and error, updating its strategy based on the rewards it experiences.
+    Examples: Q-Learning, SARSA, Deep Q-Networks.
